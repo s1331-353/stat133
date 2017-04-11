@@ -1,0 +1,32 @@
+---
+title: "savo_lab_8"
+author: "Dan Savo"
+date: "April 11, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+---
+title: "Dan_lab8"
+author: "Dan Savo"
+date: "April 9, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE}
+library(DataComputing)
+```
+
+*Source file*
+```{r results ='asis', echo=FALSE}
+includeSourceDocuments()
+```
+
+#A few words 
